@@ -1,0 +1,10 @@
+com\battleship\core\GameLogic.class
+com\battleship\core\Ship.class
+com\battleship\client\GameBoardUI$2.class
+com\battleship\client\GameBoardUI.class
+com\battleship\server\ClientHandler.class
+com\battleship\client\GameBoardUI$1.class
+com\battleship\client\UsernameInputUI.class
+com\battleship\client\Client.class
+com\battleship\client\UsernameInputUI$1.class
+com\battleship\server\Server.class
